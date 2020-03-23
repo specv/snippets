@@ -1,4 +1,4 @@
-# tags: @tornado @http
+# tags: %tornado %http
 
 import urllib.parse
 
